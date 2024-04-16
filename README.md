@@ -11,7 +11,8 @@ Beautiful Soup was used to scrape the HTML table and find all rows contained in 
 
 The results from the table scraping were stored in a list and converted to Pandas DataFrame for futher manipulation and plotting. 
 
+Please see the Jupyter notebooks for forther details and conclusions of the analysis. 
+
 # Tools Used #
 BeautifulSoup, Splinter, Pandas, and Matplotlib
 
-Please see the Jupyter notebooks for forther details and conclusions of the analysis. 
